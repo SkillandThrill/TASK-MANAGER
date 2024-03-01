@@ -24,15 +24,4 @@ The project is organized using JavaScript classes and prototypes to adhere to ob
 git clone https://github.com/GauravR02/TASK-MANAGER
 
 
-
-
-
-
-echo "# TASK-MANAGER" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/GauravR02/TASK-MANAGER.git
-git push -u origin main
 ```
